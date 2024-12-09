@@ -2,7 +2,7 @@
 A microscope is a type of optical device that allows the human eye to see tiny objects or microbes. They use multiple optics concepts to work
 ### Reflection
 Reflection is when light waves are not absorbed into the medium and bounces in accordance to the surface. Using Fermat principle, the reflection angle can be determined by the pathway of the light, point of reflection and angle of initial light path. Typically the angle of reflection is the same to the angle of the original angle
-![[Pasted image 20241208121746.png]]
+![img.png](img.png)
 Reflection is used in mirrors, where the image is reflected on a lens and from that point, a inverted image can be see on the reflected ray.
 ![[Pasted image 20241208122033.png]]
 ### Refraction
